@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [KONSTANTIN MYAKISHEV](https://up.htmlacademy.ru/htmlcss/23/user/819167).
-* Наставник: `Неизвестно`.
+* Наставник: [Alexander Koshara](https://htmlacademy.ru/profile/rednaxxxela).
 
 ---
 
